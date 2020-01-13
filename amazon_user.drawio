@@ -1,4 +1,4 @@
-<mxfile modified="2020-01-13T16:27:06.301Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="Lg8QTTYMrb8uRrjIcMmG" version="12.5.1" type="github">
+<mxfile modified="2020-01-13T16:28:55.300Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="e5l0QgGnbEKd-RgREB3d" version="12.5.1" type="github">
   <diagram id="vyYMURlmA4du_YMqddq6" name="Page-1">
     <mxGraphModel dx="772" dy="1603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -87,7 +87,7 @@
         <mxCell id="rx76BKU7CpPrEIFOv-aw-20" value="pay&amp;nbsp; for product(s) to admin" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="240" y="290" width="100" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="4Zeao0PZxR2K6rH3QbGb-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Zeao0PZxR2K6rH3QbGb-53" target="1KPXvjAnRe_1vTXe2ojk-4">
+        <mxCell id="4Zeao0PZxR2K6rH3QbGb-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rx76BKU7CpPrEIFOv-aw-35" target="1KPXvjAnRe_1vTXe2ojk-4">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <object label="Payment service" id="rx76BKU7CpPrEIFOv-aw-35">
@@ -185,14 +185,8 @@
         <mxCell id="4Zeao0PZxR2K6rH3QbGb-54" value="&amp;lt;&amp;lt;M&amp;gt;&amp;gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="290" width="50" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="4Zeao0PZxR2K6rH3QbGb-53" value="&amp;lt;&amp;lt;M&amp;gt;&amp;gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4Zeao0PZxR2K6rH3QbGb-57" value="&amp;lt;&amp;lt;M&amp;gt;&amp;gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="357.5" width="50" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="4Zeao0PZxR2K6rH3QbGb-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rx76BKU7CpPrEIFOv-aw-35" target="4Zeao0PZxR2K6rH3QbGb-53">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="310" as="sourcePoint"/>
-            <mxPoint x="350" y="378" as="targetPoint"/>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
