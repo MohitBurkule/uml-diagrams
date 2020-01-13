@@ -1,5 +1,5 @@
-<mxfile modified="2020-01-13T16:43:15.995Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="l-YA9i4YE6ge-CF9pYVn" version="12.5.1" type="github" pages="2">
-  <diagram id="vyYMURlmA4du_YMqddq6" name="Page-1">
+<mxfile modified="2020-01-13T16:44:37.110Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="HGLN75tjJs8bylgR51hR" version="12.5.1" type="github" pages="2">
+  <diagram id="vyYMURlmA4du_YMqddq6" name="Merchant">
     <mxGraphModel dx="1103" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
@@ -182,7 +182,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="L_HtEmfw_lmfF_Nbixu_" name="Page-2">
+  <diagram id="L_HtEmfw_lmfF_Nbixu_" name="Admin">
     <mxGraphModel dx="772" dy="1603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="fET1unnNT369VjIohE5C-0"/>
